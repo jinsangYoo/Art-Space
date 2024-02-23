@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="calculate_tip">Calculate Tip</string>
+    <string name="bill_amount">Bill Amount</string>
+    <string name="how_was_the_service">Tip Percentage</string>
+
+    <string name="artwork_title">Artwork Title</string>
+    <string name="artwork_artist">Artwork Artist</string>
+
+    <string name="first">First</string>
+    <string name="last">Last</string>
+
+    <string name="first_of_albums">First of albums.</string>
+    <string name="last_of_albums">Last of albums.</string>
+
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+</resources>
